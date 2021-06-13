@@ -10,7 +10,7 @@ body {
 
 .img-container {
     width: 60%;
-    height: 60vh;
+    height: 80vh;
     background: url('./img/1.jpg') center/cover;
     border: .5rem solid #8700b1;
     border-radius: .5rem;
